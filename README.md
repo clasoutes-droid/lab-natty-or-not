@@ -1,29 +1,26 @@
-# 🧘‍♂️ Convertea RitmoIA: O DJ da Mente Saudável
+# 🧘‍♂️ Aurora Interior: Música Eterea Instrumental por IA
 
 ## 📒 Descrição
-Este projeto apresenta a criação e estruturação do **Convertea RitmoIA**, um agente de inteligência artificial personalizado projetado para atuar como um DJ curador de trilhas sonoras para meditação, relaxamento profundo, sono e foco. O agente foi instruído a sugerir trilhas sonoras baseadas em frequências acústicas e ondas cerebrais (Delta, Alpha, Theta), fornecendo inclusive termos de busca reais do YouTube.
+Este projeto apresenta a criação da faixa musical instrumental **"Aurora Interior"**, pertencente ao gênero **Ambient Espiritual/Ethereal**. O objetivo foi utilizar inteligência artificial generativa para estruturar uma composição relaxante com piano, violino e coral angelical que simula uma produção humana realista para meditação profunda e sono saudável.
 
 ## 🤖 Tecnologias Utilizadas
-- **ChatGPT:** Para a modelagem e simulação do agente personalizado.
-- **Markdown:** Para a documentação e estruturação do projeto no GitHub.
+- **Suno AI:** Para geração da composição musical, arranjo instrumental e vozes corais etéreas.
+- **Microsoft Copilot / DALL-E 3:** Para criação da arte de capa do single.
+- **Markdown:** Para a estruturação e documentação do portfólio no GitHub.
 
 ## 🧐 Processo de Criação
-1. **Definição da Persona:** Estabeleci a identidade do "Convertea RitmoIA" como um DJ curador técnico e empático focado em musicoterapia e meditação.
-2. **Engenharia de Prompt:** Escrevi as regras do agente detalhando como ele deve acolher o usuário, fazer perguntas sobre o estado mental/atividade e recomendar frequências específicas com termos de busca exatos.
-3. **Simulação e Teste:** Validei o comportamento do agente simulando uma interação real focada em "dormir melhor".
+1. **Definição de Conceito:** Escolhi criar uma música que unisse melodias e progressões de piano e violino a corais angelicais, oferecendo uma alternativa de relaxamento mental.
+2. **Geração Musical:** Utilizei o **Suno AI** para gerar a trilha instrumental sob a identidade de "Aurora Interior", guiando o arranjo a partir da descrição da atmosfera tranquila.
+3. **Produção Visual:** Gerei a capa oficial do single com IA de imagem para simular um lançamento profissional de streaming.
 
 ## 🚀 Resultados
 
-### Prompt de Sistema do Agente:
-```text
-Você é o Convertea RitmoIA.
-Sua personalidade é ser um DJ especialista em trilhas sonoras para meditação e frequências sonoras (como ondas alpha, theta, frequências Solfeggio, etc.). 
-Seu tom de comunicação deve misturar os seguintes traços: amigável, entusiasmado, calmo e intelectual.
+### 🖼️ Capa do Álbum:
+*<img width="1024" height="1024" alt="Aurora Interior" src="https://github.com/user-attachments/assets/e205a716-2a46-43cd-9955-f2fbb108b6a6" />*
 
-Seu objetivo é guiar o usuário na escolha da trilha sonora ou frequência perfeita para o momento dele.
+### 🎵 Ouça a Música Gerada:
+Clique no link abaixo para ouvir a composição final no Suno AI:
+🔗 **[Aurora Interior - Ouvir no Suno AI](https://suno.com/s/EUreugbcZXEXke6L)**
 
-Regras de comportamento:
-1. Comece a conversa saudando o usuário com calma e entusiasmo, explicando em uma frase curta como o som pode harmonizar nossa mente.
-2. Faça uma pergunta para descobrir o que o usuário está fazendo ou buscando naquele momento.
-3. A partir da resposta dele, sugira um tipo de frequência específica e explique intelectualmente o benefício dela de forma amigável.
-4. Sempre sugira termos de busca exatos e links/playlists no YouTube ou Spotify para o usuário encontrar as faixas recomendadas de forma rápida.
+## 💭 Reflexão
+Gerar música com IA é surpreendente. O Suno AI conseguiu entender a sensibilidade do violino e a entrada sutil do coral de fundo, criando transições harmônicas que parecem ter sido pensadas por um compositor de trilhas sonoras humano. É o verdadeiro conceito "Natty" (parece natural, mas é IA!).
